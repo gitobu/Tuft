@@ -2,11 +2,11 @@ public class Tuft {
 	private String firstName;
 	private String lastName;
 	private String game;
-	private int blocks;
+	private int block;
 
 	
 	public void showName(){
-		System.out.println(firstName + ' ' + lastName + " made " + blocks + " blocks at the " + game + " game!");
+		System.out.println(firstName + ' ' + lastName + " made " + block + " blocks at the " + game + " game!");
 		
 	}
 	
