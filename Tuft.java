@@ -12,8 +12,8 @@ public class Tuft {
 	
 	public static void main(String[] args) {
 		Tuft hj = new Tuft();
-		hj.firstName = "King";
-		hj.lastName = "Dunlap";
+		hj.firstName = "Nick";
+		hj.lastName = "Hardwick";
 		hj.game = "Denver";
 		hj.blocks = 3;
 		hj.showName();
