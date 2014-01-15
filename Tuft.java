@@ -15,7 +15,7 @@ public class Tuft {
 		hj.firstName = "King";
 		hj.lastName = "Dunlap";
 		hj.game = "Denver";
-		hj.blocks = 3;
+		hj.blocks = 8;
 		hj.showName();
 	
 	}
